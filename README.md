@@ -4,3 +4,5 @@
 2. [Agentic Search](/agentic_search.ipynb)
 3. [Persistence and Streaming](/persistence_and_streaming.ipynb)
 4. [Human in the loop](/human_in_the_loop.ipynb)
+5. [Essay Writer](/essay_writer.ipynb)
+6. [Helper code for the GUI](/helper.py)
